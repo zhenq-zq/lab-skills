@@ -4,19 +4,22 @@ Replace bracketed fields with verified user-provided information. Omit irrelevan
 
 ## [Experiment title] ([YYYYMMDD])
 
-Ob: [Purpose and principal comparison; one or two sentences.]
+Ob: [Purpose and principal comparison; one short line.]
 
 Result/Conclusion: Pending.
 
 Groups: [Samples] × [conditions] × [replicates] = [total].
 
-1. [Sample and condition, in actual loading order]
-2. [Sample and condition]
+```text
+1. [Sample ID and condition]
+2. [Sample ID and condition]
 3. [Explicit control composition]
+```
 
 ### Preparation
 
-[Stock and working concentrations, dilution volumes, and final-volume convention.]
+- [Stock and working concentrations]
+- [Dilution volumes and final-volume convention]
 
 ### Procedure
 
@@ -29,16 +32,22 @@ Volumes: [unit/reaction] ([batch multiplier] total)
 [Component] ---- [single] ([batch])
 ```
 
-[Separately added material, addition order, and stage volume.]
+1. [First addition]
+2. [Next operation]
+- [Stage volume]
 
 **Step 2 · [Treatment or instrument program]**
 
-[Temperature, time, cycles, and hold, as supplied.]
+1. [Run the supplied instrument program]
+- [Temperature, time, cycles, and hold]
 
 **Step 3 · [Subsequent preparation and addition]**
 
-[Provide each subsequent recipe here, followed by the actual addition instruction.]
+1. [Prepare the subsequent mix; place its recipe here]
+2. [Add as specified]
 
 **Step 4 · [Readout]**
 
-[Instrument settings, duration, and principal comparison.]
+1. [Acquire the readout]
+- [Instrument settings and duration]
+- [Principal comparison]
