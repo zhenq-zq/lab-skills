@@ -2,15 +2,6 @@
 
 A growing collection of focused AI skills for laboratory workflows. Each skill lives in its own folder and can be used independently.
 
-## AI 科研工作台部署指南
-
-将部署说明交给具备本地文件与终端执行权限的 AI，按步骤搭建实验记录、数据与制图、LaTeX 稿件及投稿材料工作区。
-
-- [下载两页 A4 PDF](docs/AI_Research_Workbench_Deployment.pdf) — 第一页部署指令，第二页工作区与实验记录参考。
-- [复制部署文字](docs/AI_Research_Workbench_Deployment.md) — 可直接粘贴给 AI。
-
-说明要求实际运行验收并报告未完成项；尚未在其他 AI 工具上完成端到端实测，账号登录与授权由使用者完成。
-
 ## Skill catalog
 
 | Skill | Purpose | Entry point |
